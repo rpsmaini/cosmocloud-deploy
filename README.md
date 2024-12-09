@@ -13,4 +13,4 @@ In this project we will be creating 3 services in kubernetes using helm charts.
     2. Once the repo is cloned open the terminal and type "cd cosmocloud_deployment".
 	3. Install the following software mentioned above. 
     3. Then start your minikube using "minikube start" command.
-    4. Once minikube is running to deploy the app type "helm install testapp ./cosmocloud_deploy --atomic --timeout 30s".
+    4. Once minikube is running to deploy the app type "helm install testapp ./cosmocloud-deploy --atomic --timeout 30s".
