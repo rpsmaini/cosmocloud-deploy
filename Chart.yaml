@@ -1,6 +1,6 @@
 #defining meta info of the chart
 apiVersion: v1
-name: cosmocloud_deploy
+name: cosmocloud-deploy
 description: A Helm chart to deploy respective services frontend, backend and redis as a database
 type: application
 version: 0.1.0
