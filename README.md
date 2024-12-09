@@ -1,4 +1,4 @@
-# cosmocloud_deploy
+# cosmocloud-deploy
 This repo is meant for interviewing purposes in the organization.
 ### Description of the project:
 In this project we will be creating 3 services in kubernetes using helm charts.
